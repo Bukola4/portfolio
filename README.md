@@ -2,6 +2,7 @@
 
 ### Education
 Cert.,Google Data Analytics | Npower Canada (_Sept 2023_)
+
 B.Sc., Electrical/Electronics | Ladoke Akintola University of Technology (_Dec 2010_)
 
 
